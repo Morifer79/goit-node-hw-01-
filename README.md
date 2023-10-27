@@ -1,22 +1,33 @@
 # goit-node-hw-01  
+
 ## Hennadii Laktionov  
 
 ---
 
-! ⁠[list]​(https://ibb.co/ydncD7Y)  
+<a href="https://ibb.co/ydncD7Y"><img src="https://img.shields.io/badge/LIST-yellow?style=plastic" alt="List Badge"/></a>  
+
+! ⁠[list]​(./screenshots/0001.jpg)  
 
 ---
 
-! ⁠[get]​(https://ibb.co/MsDYhn7)  
+<a href="https://ibb.co/MsDYhn7"><img src="https://img.shields.io/badge/GET-yellow?style=plastic" alt="Get Badge"/></a>  
+
+! ⁠[get]​(./screenshots/0002.jpg)  
 
 ---
 
-! ⁠[add]​(https://ibb.co/GRkSV91)  
+<a href="https://ibb.co/GRkSV91"><img src="https://img.shields.io/badge/ADD-yellow?style=plastic" alt="Add Badge"/></a>  
+
+! ⁠[add]​(./screenshots/0003.jpg)  
 
 ---
 
-! ⁠[remove]​(https://ibb.co/ZgmLpXK)  
+<a href="https://ibb.co/ZgmLpXK"><img src="https://img.shields.io/badge/REMOVE-yellow?style=plastic" alt="Remove Badge"/></a>  
+
+! ⁠[remove]​(./screenshots/0004.jpg)  
 
 ---
 
-! ⁠[null]​(https://ibb.co/MsDYhn7)  
+<a href="https://ibb.co/MsDYhn7"><img src="https://img.shields.io/badge/NULL-yellow?style=plastic" alt="Null Badge"/></a>  
+
+! ⁠[null]​(./screenshots/0005.jpg)  
