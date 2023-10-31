@@ -28,7 +28,7 @@ const addContact = async data => {
 const removeContact = async contactId => {
   const contacts = await listContacts();
   const idx = contacts.findIndex(item => item.id === contactId);
-  if (!!~idx) {
+  if (idx === -1) {
     return null;
   }
   const [result] = contacts.splice(idx, 1);
