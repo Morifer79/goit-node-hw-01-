@@ -1,6 +1,4 @@
-# goit-node-hw-01  
-
-## Hennadii Laktionov  
+# 𝔽𝕚𝕣𝕤𝕥 𝕙𝕠𝕞𝕖𝕨𝕠𝕣𝕜 𝕠𝕟 ℕ𝕠𝕕𝕖  
 
 <a href="https://ibb.co/ydncD7Y"><img src="https://img.shields.io/badge/LIST-yellow?style=plastic" alt="List Badge"/></a>  
 
@@ -29,3 +27,10 @@
 <a href="https://ibb.co/MsDYhn7"><img src="https://img.shields.io/badge/NULL-yellow?style=plastic" alt="Null Badge"/></a>   
 
 <image src="./screenshots/pic-5.jpg" alt="Null">  
+
+## 𝔽𝕖𝕒𝕥𝕦𝕣𝕖𝕤 𝕒𝕟𝕕 𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕚𝕖𝕤 ᎓ 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>  
+
+## 𝔼𝕞𝕒𝕚𝕝 𝕞𝕖 ᎓  
+Questions, suggestions, help:  
+<a href="mailto:cyber-morifer@proton.me"><img src="https://badgen.net/badge/📧 email:/cyber-morifer@proton.me/yellow?icon=email" alt="Mail Badge"/></a>
